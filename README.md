@@ -82,7 +82,8 @@ Here is the updated usage for the results.
 		</customItem>
 	*/
 	//echo $xml;
-
+	// To display XML in HTML use this code:
+	//echo '<pre>', htmlentities($xml), '</pre>';
 	?>
 
 
